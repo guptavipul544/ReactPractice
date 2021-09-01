@@ -1,3 +1,5 @@
+In src Folder all folder deleted except index.js 
+
 
 # Getting Started with Create React App
 
